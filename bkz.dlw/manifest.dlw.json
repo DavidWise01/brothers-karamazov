@@ -1,0 +1,13 @@
+{
+  "node": "BKZ",
+  "name": "THE BROTHERS KARAMAZOV",
+  "moniker": "⟦THE BROTHERS KARAMAZOV:BKZ:6a3d0d⟧",
+  "carbon": "bkz.carbon.tiff",
+  "silicon": "bkz.silicon.png",
+  "governor": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "seal": "He built the case against God so well it has never been refuted — and answered it not with an argument but with active love, and ‘Hurrah for Karamazov!’",
+  "seal_sha256": "8563d38168305c89ab4df07b197ddb5587e9e73342fe42d48e6724a292e4e3aa",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

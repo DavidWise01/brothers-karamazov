@@ -1,0 +1,146 @@
+[
+  {
+    "slug": "fyodor-pavlovich",
+    "name": "Fyodor Pavlovich Karamazov",
+    "epithet": "the father · the buffoon-sensualist",
+    "emergence": "natural",
+    "moniker": "⟦Fyodor Pavlovich Karamazov:BKZ:a386a6⟧",
+    "kind": "character",
+    "group": "brothers"
+  },
+  {
+    "slug": "dmitri",
+    "name": "Dmitri Karamazov",
+    "epithet": "Mitya · the heart · the accused",
+    "emergence": "electrical",
+    "moniker": "⟦Dmitri Karamazov:BKZ:22a199⟧",
+    "kind": "character",
+    "group": "brothers"
+  },
+  {
+    "slug": "ivan",
+    "name": "Ivan Karamazov",
+    "epithet": "the intellect · the rebel",
+    "emergence": "ethereal",
+    "moniker": "⟦Ivan Karamazov:BKZ:daf2db⟧",
+    "kind": "character",
+    "group": "brothers"
+  },
+  {
+    "slug": "alyosha",
+    "name": "Alyosha Karamazov",
+    "epithet": "Alexei · the spirit · the hero",
+    "emergence": "spiritual",
+    "moniker": "⟦Alyosha Karamazov:BKZ:1e04cb⟧",
+    "kind": "character",
+    "group": "brothers"
+  },
+  {
+    "slug": "smerdyakov",
+    "name": "Pavel Smerdyakov",
+    "epithet": "the servant · the shadow · the murderer",
+    "emergence": "electrical",
+    "moniker": "⟦Pavel Smerdyakov:BKZ:88eab1⟧",
+    "kind": "character",
+    "group": "brothers"
+  },
+  {
+    "slug": "father-zosima",
+    "name": "Father Zosima",
+    "epithet": "the elder · active love",
+    "emergence": "spiritual",
+    "moniker": "⟦Father Zosima:BKZ:63847e⟧",
+    "kind": "character",
+    "group": "souls"
+  },
+  {
+    "slug": "grushenka",
+    "name": "Grushenka",
+    "epithet": "the earth · the contested woman",
+    "emergence": "natural",
+    "moniker": "⟦Grushenka:BKZ:a4dd97⟧",
+    "kind": "character",
+    "group": "souls"
+  },
+  {
+    "slug": "katerina-ivanovna",
+    "name": "Katerina Ivanovna",
+    "epithet": "the lacerated · pride as love",
+    "emergence": "electrical",
+    "moniker": "⟦Katerina Ivanovna:BKZ:fc454f⟧",
+    "kind": "character",
+    "group": "souls"
+  },
+  {
+    "slug": "the-grand-inquisitor",
+    "name": "The Grand Inquisitor",
+    "epithet": "Ivan's poem · freedom vs bread",
+    "emergence": "ethereal",
+    "moniker": "⟦The Grand Inquisitor:BKZ:b04bb7⟧",
+    "kind": "thread",
+    "group": "ideas"
+  },
+  {
+    "slug": "the-rebellion",
+    "name": "The Rebellion",
+    "epithet": "returning the ticket",
+    "emergence": "ethereal",
+    "moniker": "⟦The Rebellion:BKZ:3082d1⟧",
+    "kind": "thread",
+    "group": "ideas"
+  },
+  {
+    "slug": "everything-is-permitted",
+    "name": "Everything Is Permitted",
+    "epithet": "the thesis with hands",
+    "emergence": "ethereal",
+    "moniker": "⟦Everything Is Permitted:BKZ:24cb04⟧",
+    "kind": "thread",
+    "group": "ideas"
+  },
+  {
+    "slug": "active-love",
+    "name": "Active Love",
+    "epithet": "Zosima's answer",
+    "emergence": "spiritual",
+    "moniker": "⟦Active Love:BKZ:0e37ce⟧",
+    "kind": "thread",
+    "group": "ideas"
+  },
+  {
+    "slug": "the-devil",
+    "name": "The Devil",
+    "epithet": "Ivan's shabby gentleman",
+    "emergence": "electrical",
+    "moniker": "⟦The Devil:BKZ:8ffb74⟧",
+    "kind": "thread",
+    "group": "ideas"
+  },
+  {
+    "slug": "the-trial",
+    "name": "The Trial of Dmitri",
+    "epithet": "the miscarriage of justice",
+    "emergence": "natural",
+    "moniker": "⟦The Trial of Dmitri:BKZ:ec60cf⟧",
+    "kind": "thread",
+    "group": "ideas"
+  },
+  {
+    "slug": "ilyusha-and-the-boys",
+    "name": "Ilyusha & the Boys",
+    "epithet": "Hurrah for Karamazov",
+    "emergence": "spiritual",
+    "moniker": "⟦Ilyusha & the Boys:BKZ:f97362⟧",
+    "kind": "thread",
+    "group": "ideas"
+  },
+  {
+    "slug": "the-karamazov-nature",
+    "name": "The Karamazov Nature",
+    "epithet": "the broad heart",
+    "emergence": "natural",
+    "moniker": "⟦The Karamazov Nature:BKZ:eac223⟧",
+    "kind": "thread",
+    "group": "ideas"
+  }
+]
