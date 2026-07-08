@@ -4,6 +4,6 @@ slug  : brothers-karamazov
 seal  : 8563d38168305c89ab4df07b197ddb5587e9e73342fe42d48e6724a292e4e3aa
 prev  : ff05bae280029fcb90be53f1bfff740931415220e881358192b04024dca2d2e2
 link  : ff7558b4ca7b5fed3f3e2a44c5b643b69b732ad2935d51882c33c3d06f8aea65
-head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
